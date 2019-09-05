@@ -87,11 +87,4 @@ Results
  
 Submit your "multiThreadSorter_thread.c", "multiThreadSorter_thread.h" and "mergesort.c" as well as any other source files your header file references.
  
-Document your design, assumptions, difficulties you had and testing procedure. Include any test CSV files you used in your documentation. Be sure to also include a short description of how to use your code. Look at the man pages for suggestions on format and content. Do not neglect your header file. Be sure to describe the contents of it and why you needed them.
- 
-Include a file called analysis.pdf that describes your findings from executing the time utility. Discuss why the results are the way they are. Be sure to answer the following questions:
-                         
-                                Is the comparison between run times a fair one? Why or why not?
-                                What are some reasons for the discrepancies of the times or for lack of discrepancies?
-                                If there are differences, is it possible to make the slower one faster? How? If there were no differences, is it possible to make one faster than the other? How?
-                                Is mergesort the right option for a multithreaded sorting program? Why or why not?
+Document your design, assumptions, difficulties you had and testing procedure. Include any test CSV files you used in your documentation. Be sure to also include a short description of how to use your code.
